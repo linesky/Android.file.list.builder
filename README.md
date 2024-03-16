@@ -1,2 +1,3 @@
-# Android.file.list.builder
-Builds interface of file list inyerface
+# os.ega
+
+iso lunix on ega mode
